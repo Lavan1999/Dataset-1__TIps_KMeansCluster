@@ -20,8 +20,8 @@ dining experience and includes the following columns:
 
 ## Repository Structure
 - `tips.csv`: Contains the raw data files used in the analysis.
-- `Tips.ipynb`: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
-- `results/`: Output files, visualizations, and summaries generated during the analysis.
+- `tips.ipynb`: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
+- `conclusion/`: Output files, visualizations, and summaries generated during the analysis.
 - `README.md`: This file, providing an overview of the project.
 
 ## Dependencies
