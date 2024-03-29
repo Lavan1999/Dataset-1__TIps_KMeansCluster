@@ -43,4 +43,5 @@ dining experience and includes the following columns:
 
 ## Contribution Guidelines
 Contributions to this project are welcome! If you find any issues, have suggestions for improvements, 
-or want to add new features, please open an issue or submit a pull request following the guidelines outlined in `CONTRIBUTING.md`.
+or want to add new features, please open an issue or submit a pull request following the guidelines outlined in
+`CONTRIBUTING.md`.
