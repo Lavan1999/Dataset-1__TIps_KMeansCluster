@@ -2,8 +2,8 @@
 
 ## Overview
 This repository contains the python code and documentation for analyzing the "Tips" dataset using
- Python and statistical methods. The dataset consists of various variables related to restaurant bills and tips,
- including total bill amount, tip amount, customer gender, smoking status, day of the week, time of day, and party size. 
+Python and statistical methods. The dataset consists of various variables related to restaurant bills and tips,
+including total bill amount, tip amount, customer gender, smoking status, day of the week, time of day, and party size. 
 Our goal is to explore, analyze, and draw insights from this data.
 ## Dataset Description
 The "Tips" dataset contains information about restaurant bills and tips. Each entry represents a unique 
